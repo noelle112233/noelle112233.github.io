@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://noelle112233.github.io/blog</id>
     <title>李美丽的官方网站 Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2023-04-06T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://noelle112233.github.io/blog"/>
     <subtitle>李美丽的官方网站 Blog</subtitle>
     <icon>https://noelle112233.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[高兴的一天]]></title>
+        <id>https://noelle112233.github.io/blog/happy</id>
+        <link href="https://noelle112233.github.io/blog/happy"/>
+        <updated>2023-04-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今天天气真好，老师讲的也好]]></summary>
+        <content type="html"><![CDATA[<p>今天天气真好，老师讲的也好
+为什么</p>]]></content>
+        <author>
+            <name>李美丽</name>
+            <uri>https://github.com/wgao19</uri>
+        </author>
+        <category label="随笔" term="随笔"/>
+        <category label="吃，李美丽" term="吃，李美丽"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://noelle112233.github.io/blog/welcome</id>

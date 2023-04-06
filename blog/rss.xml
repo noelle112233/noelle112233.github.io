@@ -4,10 +4,21 @@
         <title>李美丽的官方网站 Blog</title>
         <link>https://noelle112233.github.io/blog</link>
         <description>李美丽的官方网站 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[高兴的一天]]></title>
+            <link>https://noelle112233.github.io/blog/happy</link>
+            <guid>https://noelle112233.github.io/blog/happy</guid>
+            <pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[今天天气真好，老师讲的也好]]></description>
+            <content:encoded><![CDATA[<p>今天天气真好，老师讲的也好
+为什么</p>]]></content:encoded>
+            <category>随笔</category>
+            <category>吃，李美丽</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://noelle112233.github.io/blog/welcome</link>
